@@ -50,6 +50,7 @@ body {
 .main-content {
   flex: 1;
   padding: 40px;
+  
 }
 
 .main-content h1 {
@@ -85,4 +86,5 @@ body {
   font-size: 1.1rem;
   line-height: 1.6;
 }
+
 
